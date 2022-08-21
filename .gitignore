@@ -12,9 +12,12 @@ _deps
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules
+.vscode
+buid
 /.pnp
 .pnp.js
+tsconfig.json
 
 # testing
 /coverage
