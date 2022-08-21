@@ -39,7 +39,7 @@ export function Pricing() {
               Premium PRO
             </Text>
             <Heading as='h3' fontSize={['5xl', '5xl', '6xl']} mt='4' color='white'>
-              $329
+              $347
             </Heading>
             <Text color='gray.400' fontSize='lg' fontWeight='medium' mt='2'>
               billed just once
