@@ -5,7 +5,7 @@ export function Header() {
     <Box
       as='section'
       color='gray.50'
-      bg='blue'
+      bg='#003E9C'
       pt={['60px', '60px', '90px']}
       pb='198px'
       px='8'

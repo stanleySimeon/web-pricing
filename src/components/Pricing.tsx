@@ -45,13 +45,13 @@ export function Pricing() {
               billed just once
             </Text>
             <Button
-              bg={'blue'}
+              bg={'#003E9C'}
               size='lg'
               w={['auto', '282px', '282px']}
               mt='6'
               color='white'
-              _hover={{ bg: '#031085DA' }}
-              _active={{ bg: '#0515A9DA' }}
+              _active={{ bg: '#003E9C' }}
+              _hover={{ bg: '#0046AE' }}
             >
               Get Started
             </Button>
