@@ -10,7 +10,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](webpricing.netlify.app)
+[Live Demo Link](https://webpricing.netlify.app)
 
 
 ## Getting Started
